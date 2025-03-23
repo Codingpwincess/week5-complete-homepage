@@ -28,13 +28,25 @@ p{
     line-height: 1.5;
     color: #ffff;
 }
+.acc-btn{
+    color: rgba(116, 42, 103, 0.75);
+    font-size: 45px;
+}
 .prjct-desc{
     padding: 0 20px;
 
 }
+.skillset{
+    font-family: var(--secondary-font);
+    font-weight: 900;
+}
 .calc{
     margin-left: 150px;
     margin-right: 150px;
+}
+.navi-style{
+    color: #ffff;
+    font-family: var(--secondary-font);
 }
 .weather-icon{
   margin-right: 150px;
@@ -46,7 +58,7 @@ p{
 }
 .nav-btn{
     color: #ffff;
-    border: 1px solid #5e4b4b
+    border: 1px solid #fdfcfc
 }
 .nav-btn:hover{
     transition: all ease-in-out 0.75ms;
